@@ -1,0 +1,28 @@
+.c1
+{
+	background-color:RGB(25, 25, 111) !important; 
+	color:white;	
+	padding:1%;
+	
+}
+.header-font
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size:3vw;
+	font-weight:bold;
+}
+
+.myslide
+{
+	width:100%;
+}
+.header-font2
+{
+	font-size:2vw;
+}
+
+.navbar1
+{
+	background-color:RGB(25, 25, 111) !important; 
+	color:white;
+}
